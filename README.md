@@ -109,4 +109,4 @@ Room photos come from Unsplash URLs declared in `src/data/rooms.ts`. No local im
 - The inquiry form and each room's "Reserve This Room" button are the only frontend controls wired to the backend; header nav items are in-page scroll anchors
 - The signature canvas glitch effect in `Works.tsx` reacts to scroll speed — keep it; it is the repo's identity interaction
 - Do not remove `api/kimi/` — it handles OAuth
-# hotel
+
